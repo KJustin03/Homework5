@@ -28,7 +28,7 @@ git clone https://github.com/KJustin03/Homework5
 
 ## Link
 
-https://github.com/KJustin03/Homework5
+https://kjustin03.github.io/Homework5/
 
 ## License
 
